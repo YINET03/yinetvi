@@ -1,0 +1,35 @@
+ESCUELA DE INFORMATICA UASD-FACULTAD DE CIENCIAS.
+ESTUDIANTE: YINET VALDEZ IBERT
+MATRICULA: 100597131
+FECHA:10/12/2025
+
+/*Este proyecto es una aplicación de consola destinado a la gestión y arquiler de peliculas, incluyendo:
+*Actores.
+*Año de estreno.
+*Nombre de la pelicula.
+Entre otros.
+Este proyecto tiene una conexión a la base de datos MY SQL Worbench, este nos permite realizar operaciones CRUD sobre
+las peliculas, actores, clientes.
+
+Características:
+
+-CRUD completo para películas, actores, clientes y rentas.
+-Persistencia de datos en MySQL usando JDBC.
+-Arquitectura MVC (Model-View-Controller).
+-Validación de datos con expresiones regulares.
+-Exportación de reportes en formato CSV.
+-Diagrama UML incluido.
+-Documentación con Javadoc.
+-Uso de colecciones genéricas.
+-Menú interactivo en consola.
+
+Estructura de Paquetes
+
+-com.sakila.models: Clases de entidad (Film, Actor, Customer, Rental).
+-com.sakila.controllers: Controladores SQL para cada entidad.
+-com.sakila.data: Conexión a la base de datos.
+-com.sakila.utils: Utilidades y validaciones.
+-com.sakila.reports: Generación de reportes.
+-com.sakila: Main y diagrama UML.
+
+Dicho proyecto se encuentra disponible en GitHub atraves de un repositorio, tambien contiene un diagrama UML para una mejor comprensión.
